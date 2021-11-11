@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "title": "COCA-COLA",
+        "precio":3.5,
+        "type": "bebidas",
+        "img":"./imagenes/cocacola-lata.jpg"
+    },
+    {
+        "id":2,
+        "title": "COCA-COLA ZERO",
+        "precio":3.5,
+        "type": "bebidas",
+        "img":"./imagenes/cocacola-zero.jpg"
+    },
+    {
+        "id":3,
+        "title": "MANZANA POST.",
+        "precio":3.5,
+        "type": "bebidas",
+        "img":"./imagenes/postobon-manzana-lata.jpg"
+    },
+    {
+        "id":4,
+        "title": "AGUA NATURAL",
+        "precio":3.5,
+        "type": "bebidas",
+        "img":"./imagenes/agua-500ml.jpg"
+    },
+    {
+        "id":5,
+        "title": "NARANJA POST.",
+        "precio":3.5,
+        "type": "bebidas",
+        "img":"./imagenes/naranja-postobon.jpg"
+    },
+    {
+        "id":6,
+        "title": "TROPICAL 2L",
+        "precio":3.5,
+        "type": "bebidas",
+        "img":"./imagenes/tropical-ecuador-botella.jpg"
+    },
+    {
+        "id":7,
+        "title": "PIÑA POSTOBON",
+        "precio":3.5,
+        "type": "bebidas",
+        "img":"./imagenes/postobon-pina.jpg"
+    },
+    {
+        "id":8,
+        "title": "",
+        "precio": "",
+        "img":"./imagenes/volver.png"
+
+    }
+]
